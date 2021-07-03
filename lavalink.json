@@ -1,0 +1,9 @@
+[
+  {
+    "name": "node-00",
+    "host": "lava.link",
+    "port": "80",
+    "auth": "youshallnotpass"
+  }
+
+ ]
