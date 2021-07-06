@@ -1,4 +1,4 @@
-class KongouDispatcher {
+class Dispatcher {
     constructor(options) {
 
         this.client = options.client;
@@ -47,4 +47,4 @@ class KongouDispatcher {
         this.text.send('queue has ended').catch(() => null);
     }
 }
-module.exports = KongouDispatcher;
+module.exports = Dispatcher;

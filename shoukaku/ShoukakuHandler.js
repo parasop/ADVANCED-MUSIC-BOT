@@ -1,5 +1,5 @@
 const { Shoukaku } = require('shoukaku');
-const LavalinkServers = require('../lavalink.json');
+const LavalinkServers = [{ name: 'my-lavalink-server', host: 'lavalink.parasgaming.repl.co', port: 443, auth: 'youshallnotpass', secure: true }];
 const Options = require('../shoukaku-option.js');
 
 class ShoukakuHandler extends Shoukaku {

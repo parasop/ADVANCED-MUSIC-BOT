@@ -1,9 +1,10 @@
 [
   {
-    "name": "node-00",
-    "host": "lava.link",
-    "port": "80",
-    "auth": "youshallnotpass"
+    "name": "node-1",
+    "host": "lavalink.parasgaming.repl.co",
+    "port": "433",
+    "auth": "youshallnotpass",
+	"secure": true
   }
 
  ]
